@@ -15,4 +15,4 @@
 
 Please feel free to fork this repository, customize it, and use it for your own personal projects.
 
-For any questions on how to get started using Bootstrap, CSS or custom JS, please comment on this repository or tweet to me [@bgamwell]:http://www.twitter.com/bgamwell.
+For any questions on how to get started using Bootstrap, CSS or custom JS, please comment on this repository or tweet to me: http://www.twitter.com/bgamwell.
